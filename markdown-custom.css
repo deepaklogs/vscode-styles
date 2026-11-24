@@ -1,0 +1,12 @@
+.code-active-line {
+    border-left: none !important;
+}
+
+body {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    font-family: "Segoe UI", sans-serif;
+}
+h1, h2 {
+    color: #569cd6;
+}
